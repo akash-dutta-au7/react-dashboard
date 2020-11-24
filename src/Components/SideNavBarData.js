@@ -12,7 +12,7 @@ export const SideNavBarData = [
     cName: "nav-text",
   },
   {
-    title: "Crypto currencies",
+    title: "Cryptocurrencies",
     path: "/crypto",
     icon: <RiCurrencyFill />,
     cName: "nav-text",
@@ -30,7 +30,7 @@ export const SideNavBarData = [
     cName: "nav-text",
   },
   {
-    title: "Download Reports",
+    title: "Reports",
     path: "/reports",
     icon: <IoIosPaper />,
     cName: "nav-text",
